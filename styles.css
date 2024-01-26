@@ -1,0 +1,33 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color:rgb(172, 208, 172);
+    font-family: sans-serif;
+  }
+body{
+    background-color:rgb(233, 244, 200);
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(224, 82, 82);
+}
+label{
+    display:block;
+    margin:10px 0;
+}
+#submit {
+    width:100%;
+}
+#submit:hover{
+    background-color: rgb(0, 127, 82);
+    color: white;
+}
+textarea{
+    width: 100%;
+}
